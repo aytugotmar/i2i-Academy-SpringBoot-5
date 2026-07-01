@@ -1,4 +1,4 @@
-# i2i Academy - Spring Boot Assignment 2
+# i2i Academy - Spring Boot Assignment 
 
 This repository contains the production-ready Java Spring Boot backend service initialized and deployed as part of the i2i Academy technical engineering coursework.
 
